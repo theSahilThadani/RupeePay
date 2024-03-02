@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A Wallet For Indian user's to pay digitaly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theSahilThadani/RupeePay.git"
+  },
+  "keywords": [
+    "RupeePay",
+    "Pay",
+    "digitaly."
+  ],
+  "author": "theSahilThadani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theSahilThadani/RupeePay/issues"
+  },
+  "homepage": "https://github.com/theSahilThadani/RupeePay#readme"
+}
